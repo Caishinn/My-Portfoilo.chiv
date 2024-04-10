@@ -197,7 +197,6 @@ span{
     height: 14rem;
     margin-top: 4.5rem;
     border-radius: 1rem;
-    background-color: rgb(231, 148, 148);
 }
 .main img:hover{
     box-shadow: 0 0 25px var(--main-color);

@@ -759,3 +759,9 @@ footer .cols .news-col form button i{
         font-size: 13px;
     }
 }
+
+@media screen and (max-width: 365px) {
+    .information .item .info p{
+        font-size: 13px;
+    }
+}
